@@ -1,0 +1,8 @@
+{
+  "name": "AutoVerse",
+  "description": "Futuristic 3D luxury car marketplace with AI recommendations, live auctions, vehicle comparison, and speed dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
